@@ -1,6 +1,6 @@
 #include <iostream>
 
-int n(){
+int m(){
 	
 	//TODO : Write code for LinkedList in c++
 
