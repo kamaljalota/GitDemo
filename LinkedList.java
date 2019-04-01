@@ -14,4 +14,9 @@ class LinkedList{
 
 	}
 
+	public Boolean hasLoop(){
+
+		//TODO : Write code to check if there's a loop in the Linked List
+
+	}
 }
