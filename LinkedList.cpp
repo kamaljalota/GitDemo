@@ -1,7 +1,10 @@
 #include <iostream>
 
 int m(){
-	int b = 0;	
+
+
+
+	int c = 5;	
 	//TODO : Write code for LinkedList in c++
 
 }
